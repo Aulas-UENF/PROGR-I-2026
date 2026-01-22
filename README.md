@@ -20,7 +20,7 @@ Nesta disciplina, usaremos o **GitHub** como nossa sala de aula virtual e portf�
 - **Tudo centralizado:** Este repositório é o seu "mapa". Se estiver perdido, volte sempre para cá.
 - **Materiais:** Os slides e PDFs estão na pasta `/materiais`.
 - **Atividades:** Cada semana terá um link na tabela "Cronograma e Atividades". Ao clicar, o **GitHub Classroom** criará uma cópia particular para você fazer o exercício.
-- **Dúvidas:** Confira primeiro o nosso [FAQ.md](./FAQ.md). Se o erro persistir, abra uma *Issue* ou entre em contato!
+- **Dúvidas:** Confira primeiro as Dúvidas Frequentes [FAQ.md](./FAQ.md). Se o erro persistir, abra uma *Issue* ou entre em contato!
 
 Estamos apenas começando. Vamos codar? 💻✨
 
@@ -35,6 +35,7 @@ Estamos apenas começando. Vamos codar? 💻✨
 | 3 | Variáveis e Entrada/Saída | 📖 [Exemplos](exemplos/aula02) | [Acesse aqui a Tarefa 02](https://classroom.github.com/a/link-exemplo) |
 | 4 | Estruturas Condicionais (if/else) | [Slides](materiais/aula03.pdf) | [Acesse aqui a Tarefa 03](https://classroom.github.com/a/link-exemplo) |
 
+👉 [Clique aqui para acessar as Dúvidas Frequentes (FAQ)](FAQ.md)
 ---
 
 ## 🛠️ Ferramentas Utilizadas
