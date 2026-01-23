@@ -1,0 +1,46 @@
+# --- Arquivos Compilados e Binários ---
+# Windows
+*.exe
+*.dll
+*.obj
+
+# Linux / Mac
+*.out
+*.o
+*.so
+*.dylib
+
+# --- Arquivos Temporários e de Sistema ---
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# --- Editores de Código e IDEs ---
+# VS Code (muito usado pelos alunos)
+.vscode/
+
+# Visual Studio (versão completa)
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.sln
+*.vcxproj
+*.vcxproj.user
+
+# CLion / IntelliJ
+.idea/
+cmake-build-debug/
+
+# --- Outros ---
+# Arquivos de backup que editores criam
+*.bak
+*~
+
+# Se o aluno criar arquivos de teste de entrada/saída,
+# talvez você queira ignorar ou manter. Para ignorar logs:
+*.log
