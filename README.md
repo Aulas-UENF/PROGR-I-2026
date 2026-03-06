@@ -30,7 +30,9 @@ Estamos apenas começando. Vamos codar? 💻✨
 
 | Semana | Assunto | Material | Link da Tarefa (GitHub Classroom) |
 | :--- | :--- | :--- | :--- |
-| 1 | Apresentação da Disciplina | 📄 [Plano de Ensino (PDF)](materiais/INF01106.pdf) 📘 [Slides](materiais/Aula1-Apresentacao.pdf)| Nesta semana o foco é ambientação. |
+| 1 | Plano de ensino da Disciplina | 📄 [Plano de Ensino (PDF)](materiais/INF01106.pdf)| Nesta semana o foco é ambientação.|
+|   | Apresentação da Disciplina | 📘 [Aula1-Introducao2026.pdf](https://github.com/Aulas-UENF/PROGR-I-2026/commit/e4114a91948136f7e08ac787a9c8a5b22e468beb#commitcomment-178878669)| Nesta semana o foco é ambientação. |
+|   | Apresentação da Disciplina | 📘 [Aula 1 (PDF)](materiais/Aula-PROG - Introducao2026.pdf)| Nesta semana o foco é ambientação. |
 | 2 | Introdução | 📄 [Slides]](materiais/Aula_introducao.pdf) | Introdução à disciplina. |
 | 3 | Fundamentos de Git e GitHub |📘 [Slides](materiais/aula01.pdf) |✍️ [Acesse aqui a Tarefa](https://classroom.github.com/a/KYk34gfN)|
 | 4 | Resolução de Problemas | 📄 [Slides]](materiais/Aula_introducao.pdf) | Resolução de Problemas e Algoritmos. |
