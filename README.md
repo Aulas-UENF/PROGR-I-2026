@@ -30,7 +30,7 @@ Estamos apenas começando. Vamos codar? 💻✨
 
 | Semana | Assunto | Material | Link da Tarefa (GitHub Classroom) |
 | :--- | :--- | :--- | :--- |
-| 1 | Apresentação da Disciplina | 📄 [Plano de Ensino (PDF)](materiais/INF01106.pdf) | Nesta semana o foco é ambientação. |
+| 1 | Apresentação da Disciplina | 📄 [Plano de Ensino (PDF)](materiais/INF01106.pdf) 📘 [Slides](materiais/Aula1-Apresentacao.pdf)| Nesta semana o foco é ambientação. |
 | 2 | Introdução | 📄 [Slides]](materiais/Aula_introducao.pdf) | Introdução à disciplina. |
 | 3 | Fundamentos de Git e GitHub |📘 [Slides](materiais/aula01.pdf) |✍️ [Acesse aqui a Tarefa](https://classroom.github.com/a/KYk34gfN)|
 | 4 | Resolução de Problemas | 📄 [Slides]](materiais/Aula_introducao.pdf) | Resolução de Problemas e Algoritmos. |
