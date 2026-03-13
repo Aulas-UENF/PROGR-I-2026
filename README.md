@@ -31,10 +31,11 @@ Estamos apenas começando. Vamos codar? 💻✨
 | Semana | Assunto | Material | Link da Tarefa (GitHub Classroom) |
 | :--- | :--- | :--- | :--- |
 | 1 | Plano de ensino da Disciplina | 📄 [Plano de Ensino (PDF)](materiais/INF01106.pdf)| Nesta semana o foco é ambientação.
-|   | Apresentação da Disciplina | 📘 [Aula 1 (PDF)](materiais/Aula-PROG-Introducao2026.pdf)|  |
-| 2 | Introdução | 📄 [Slides]](materiais/Aula_introducao.pdf) | Introdução à disciplina. |
-| 3 | Fundamentos de Git e GitHub |📘 [Slides](materiais/aula01.pdf) |✍️ [Acesse aqui a Tarefa](https://classroom.github.com/a/KYk34gfN)|
-| 4 | Resolução de Problemas | 📄 [Slides]](materiais/Aula_introducao.pdf) | Resolução de Problemas e Algoritmos. |
+|   | Apresentação da Disciplina | 📘 [Aula 1 (PDF)](materiais/Aula-PROG-Introducao2026.pdf)| Introdução à disciplina. |
+| 2 | Prática do Github | 📘 [Aula 2 (PDF)](materiais/Aula-PROG-InstruçõesPraticas.pdf) | Apresentação prática do Github/Git. |
+|   | Fundamentos de Git e GitHub |📘 Curso sobre o Tema |✍️ [Acesse aqui a Tarefa](https://classroom.github.com/a/KYk34gfN)|
+| 3 | Resolução de Problemas |📘 [Aula 3 (PDF)]() |Resolução de Problemas e Algoritmos.|
+|   | Resolução de Problemas | 📄 [Slides]]() | Resolução de Problemas e Algoritmos. |
 | 5 | Variáveis e Entrada/Saída | 📖 [Exemplos](exemplos/aula02) | [Acesse aqui a Tarefa 02](https://classroom.github.com/a/link-exemplo) |
 | 6 | Estruturas Condicionais (if/else) | [Slides](materiais/aula03.pdf) | [Acesse aqui a Tarefa 03](https://classroom.github.com/a/link-exemplo) |
 
