@@ -35,6 +35,8 @@ Estamos apenas começando. Vamos codar? 💻✨
 | 2 | Prática do Github | 📘 [Aula 2 (PDF)](materiais/Aula-PROG-InstruçõesPraticas.pdf) | Apresentação prática do Github/Git. |
 |   | Fundamentos de Git e GitHub |📘 Curso sobre o Tema |✍️ [Acesse aqui a Tarefa](https://classroom.github.com/a/KYk34gfN)|
 | 3 | Resolução de Problemas |📘 [Aula 3 (PDF)](materiais/Aula-PROG-ResolucaoProblemas.pdf) |Resolução de Problemas e Algoritmos.|
+|   | Prática de Problemas |📘 [Aula 4 (PDF)]() |Instruções - Resolução de Problemas e Algoritmos.|
+|   | Lab-01 "Algoritmo da Tartaruga" |📘 Prática de Algoritmos |✍️ [Acesse aqui a Tarefa](https://classroom.github.com/a/alKk27ey)|
 |   | Resolução de Problemas | 📄 [Slides]]() | Resolução de Problemas e Algoritmos. |
 | 5 | Variáveis e Entrada/Saída | 📖 [Exemplos](exemplos/aula02) | [Acesse aqui a Tarefa 02](https://classroom.github.com/a/link-exemplo) |
 | 6 | Estruturas Condicionais (if/else) | [Slides](materiais/aula03.pdf) | [Acesse aqui a Tarefa 03](https://classroom.github.com/a/link-exemplo) |
