@@ -35,7 +35,7 @@ Estamos apenas começando. Vamos codar? 💻✨
 | 2 | Prática do Github | 📘 [Aula 2 (PDF)](materiais/Aula-PROG-InstruçõesPraticas.pdf) | Apresentação prática do Github/Git. |
 |   | Fundamentos de Git e GitHub |📘 Curso sobre o Tema |✍️ [Acesse aqui a Tarefa](https://classroom.github.com/a/KYk34gfN)|
 | 3 | Resolução de Problemas |📘 [Aula 3 (PDF)](materiais/Aula-PROG-ResolucaoProblemas.pdf) |Resolução de Problemas e Algoritmos.|
-|   | Prática de Problemas |📘 [Aula 4 (PDF)]() |Instruções - Resolução de Problemas e Algoritmos.|
+|   | Prática de Problemas |📘 [Aula 4 (PDF)](materiais/Aula-PROG-Pratica17032026.pdf) |Instruções - Resolução de Problemas e Algoritmos.|
 |   | Lab-01 "Algoritmo da Tartaruga" |📘 Prática de Algoritmos |✍️ [Acesse aqui a Tarefa](https://classroom.github.com/a/tro2Z-6l)|
 | 4 | Estruturação de Programas| 📄 [Aula 5 (PDF)]() | Módulo 1: Coleções Lineares (Vetores e Cadeias de Caracteres (Strings)). |
 |   | Estruturação de Programas| 📄 [Aula 6 (PDF)]() | Módulo 2: Multidimensionalidade (Matrizes). |
