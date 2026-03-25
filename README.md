@@ -37,11 +37,13 @@ Estamos apenas começando. Vamos codar? 💻✨
 | 3 | Resolução de Problemas |📘 [Aula 3 (PDF)](materiais/Aula-PROG-ResolucaoProblemas.pdf) |Resolução de Problemas e Algoritmos.|
 |   | Prática de Problemas |📘 [Aula 4 (PDF)](materiais/Aula-PROG-Pratica17032026.pdf) |Instruções - Resolução de Problemas e Algoritmos.|
 |   | Lab-01 "Algoritmo da Tartaruga" |📘 Prática de Algoritmos |✍️ [Acesse aqui a Tarefa](https://classroom.github.com/a/tro2Z-6l)|
-| 4 | Estruturação de Programas| 📄 [Aula 5 (PDF)]() | Módulo 1: Coleções Lineares (Vetores e Cadeias de Caracteres (Strings)). |
-|   | Estruturação de Programas| 📄 [Aula 6 (PDF)]() | Módulo 2: Multidimensionalidade (Matrizes). |
-|   | Estruturação de Programas| 📄 [Aula 7 (PDF)]() | Módulo 3: Agrupando Dados Diferentes (Registros/Structs e Conjuntos).|
-| 5 | Variáveis e Entrada/Saída | 📖 [Exemplos](exemplos/aula02) | [Acesse aqui a Tarefa 02](https://classroom.github.com/a/link-exemplo) |
-| 6 | Estruturas Condicionais (if/else) | [Slides](materiais/aula03.pdf) | [Acesse aqui a Tarefa 03](https://classroom.github.com/a/link-exemplo) |
+| 4 | Estruturação de Programas| 📄 [Aula 5 (PDF)]() | Introdução as Variáveis e Tipos de Dados. |
+|   | Estruturação de Programas| 📄 [Aula 6 (PDF)](https://classroom.google.com/c/ODUwNjM4MDg4NjE4/m/ODU3NTQ3NTIzNTUy/details) | Tipos de Dados - Google Classroom. |
+| 5 | Estruturação de Programas| 📄 [Aula 7 (PDF)]() | Módulo 1: Coleções Lineares (Vetores e Cadeias de Caracteres (Strings)). |
+|   | Estruturação de Programas| 📄 [Aula 8 (PDF)]() | Módulo 2: Multidimensionalidade (Matrizes). |
+|   | Estruturação de Programas| 📄 [Aula 9 (PDF)]() | Módulo 3: Agrupando Dados Diferentes (Registros/Structs e Conjuntos).|
+| 6 | Variáveis e Entrada/Saída | 📖 [Exemplos](exemplos/aula02) | [Acesse aqui a Tarefa 02](https://classroom.github.com/a/link-exemplo) |
+| 7 | Estruturas Condicionais (if/else) | [Slides](materiais/aula03.pdf) | [Acesse aqui a Tarefa 03](https://classroom.github.com/a/link-exemplo) |
 
 👉 [Clique aqui para acessar as Dúvidas Frequentes (FAQ)](FAQ.md)
 ---
